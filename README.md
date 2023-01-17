@@ -49,7 +49,7 @@
       ```
       npm start
      ```
-  * Or visit our webpage [Travel Bug](https://travelbug-project.herokuapp.com/ )
+  * Or visit our webpage [Travel Bug](https://travel-bug.onrender.com/)
 ## **Packages**
 * [Express](http://expressjs.com/)
 * [MySQL2](https://www.npmjs.com/package/mysql2)
