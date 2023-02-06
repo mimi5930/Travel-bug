@@ -1,29 +1,21 @@
 # **Travel-bug**     [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-* https://travel-bug.onrender.com/
+* https://travel-bug.herokuapp.com/
 
 ## Table of Contents
 
-  * [User-Story](#user-story)
-  * [Description](#description)
-  * [Preview](#preview)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Packages](#packages)
-  * [Future Developments](#future-developments)
-  * [Contributions](#contributions)
-  * [Tests](#tests)
-  * [License](#license)
-  * [Questions](#questions)
-
-  ---
-
-  ## **User-Story**
-  As a user I want to be able to look at travel locations and see comments, photos and ratings to plan my next trip. 
-
-  ## **Description**
-  To collab with teammates to develop a full-stack web application. Travel Bug is a webpage that hosts travel locations posted by users that allows individual users to browse for travel information and like locations to save to their personal login page. It also, lets the user create new location posts for other users to see in the homepage and lets them rate 1-5 stars on their trip/experience going to that location. 
-
-  ## **Preview**
+- [**Travel-bug**     ](#travel-bug-----)
+  - [Table of Contents](#table-of-contents)
+  - [**User-Story**](#user-story)
+  - [**Description**](#description)
+  - [**Preview**](#preview)
+  - [**Installation**](#installation)
+  - [**Usage**](#usage)
+  - [**Packages**](#packages)
+  - [**Future Developments**](#future-developments)
+  - [**Contributions**](#contributions)
+  - [**Tests**](#tests)
+  - [**License**](#license)
+  - [**Questions**](#questions)
 ![travelbug-preview](https://user-images.githubusercontent.com/94068596/157773143-4e26809c-d6e7-428f-9ae7-0de7cf5b188a.jpg)
   ## **Installation**
   Step 1. Download [Travel-bug repo](https://github.com/Metelak/Travel-bug) to local file and open files in VS Code
@@ -49,7 +41,7 @@
       ```
       npm start
      ```
-  * Or visit our webpage [Travel Bug](https://travel-bug.onrender.com/)
+  * Or visit our webpage [Travel Bug](https://travel-bug.herokuapp.com/)
 ## **Packages**
 * [Express](http://expressjs.com/)
 * [MySQL2](https://www.npmjs.com/package/mysql2)
